@@ -108,4 +108,4 @@ dist
 .lab_3/node_modules/
 
 # David's todo sample
-.lab_3/express-todos/
+.express-todos/
